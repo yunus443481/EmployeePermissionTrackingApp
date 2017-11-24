@@ -1,0 +1,58 @@
+
+
+@media only screen and (min-width:1320px) {
+	
+#buton {
+    margin-left: 83.9%; 
+}
+
+}
+
+@media only screen and (min-width:1200px) and (max-width:1319px){
+	
+#buton {
+    margin-left: 70%; 
+}
+
+}
+
+@media only screen and (min-width:995px) and (max-width:1199px){
+	
+#buton {
+    margin-left: 62.2%; 
+}
+
+}
+@media only screen and (min-width:950px) and (max-width:994px){
+	
+#buton {
+    margin-left: 78%; 
+}
+
+}
+
+@media only screen and (min-width:769px) and (max-width:959px) {
+	
+#buton{
+     margin-left: 51%; 
+}
+
+}
+
+
+
+@media only screen and (min-width:731px) and (max-width:768px) {
+	
+#buton{
+     margin-left: 40%; 
+}
+
+}
+
+@media only screen and (max-width:730px){
+	
+#buton{
+     margin-left: 76.5%; 
+}
+
+}
